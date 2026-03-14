@@ -22,11 +22,11 @@ function App() {
           <h2>About</h2>
           <p>
             I'm an Engineering Manager with experience building and scaling
-            software engineering teams. I care about shipping good software,
+            platform engineering teams. I care about shipping good software,
             growing engineers, and making work feel sustainable.
           </p>
           <p>
-            My background is in software engineering. I spent several years as
+            My background is in systems and cloud engineering. I spent several years as
             an individual contributor before moving into management. I find that
             technical context makes me a better partner to the engineers I work
             with.
@@ -39,8 +39,7 @@ function App() {
             <li>I think clarity is underrated. Clear goals, clear expectations, clear feedback.</li>
             <li>I prefer small, frequent improvements over occasional heroics.</li>
             <li>I try to remove blockers before being asked.</li>
-            <li>Disagreement is fine. Unvoiced disagreement is a problem.</li>
-            <li>I write things down.</li>
+            <li>I value disagreeing and committing to a decision once it's made.</li>
           </ul>
         </section>
 
@@ -48,15 +47,15 @@ function App() {
           <h2>Contact</h2>
           <p>
             The best way to reach me is by email:{' '}
-            <a href="mailto:zoe@example.com">zoe@example.com</a>
+            <a href="mailto:zoe.adajames@gmail.com">zoe.adajames@gmail.com</a>
           </p>
           <p>
             You can also find me on{' '}
-            <a href="https://linkedin.com" target="_blank" rel="noreferrer">
+            <a href="https://www.linkedin.com/in/zoe-the-engineer/" target="_blank" rel="noreferrer">
               LinkedIn
             </a>
             {' '}or{' '}
-            <a href="https://github.com" target="_blank" rel="noreferrer">
+            <a href="https://github.com/originality2" target="_blank" rel="noreferrer">
               GitHub
             </a>
             .
